@@ -1,7 +1,7 @@
 # Snake
 
 Simple snake game i have created in the use of tkinter library in python.
-In this game there is the main element of the snake in black that can eat apples and get larger and larger in it's length but becareful from the bombs that is placed randomaly on the screen and can be exploded in any time 
+In this game there is the main element of the snake in black that can eat apples and get larger and larger in it's length but becareful from the bombs that is placed randomaly on the screen and can be explode in any time. 
 
 <table>
   <tr>
